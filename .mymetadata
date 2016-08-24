@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TestRest"
+  id="myeclipse.1471507120701"
+  context-root="/TestRest"
+  j2ee-spec="5.0"
+  archive="TestRest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
